@@ -1,4 +1,4 @@
-###嘿，你好 👋
+#嘿，你好 👋
 这里是柚果社区，很高兴认识你！
 <!--
 **youguoshequ/youguoshequ** 是一个 ✨ _special_ ✨ 存储库，因为它的“README.md”（此文件）出现在您的 GitHub 个人资料中。
